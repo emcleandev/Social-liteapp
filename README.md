@@ -16,7 +16,7 @@ backend repo: [social-express](https://github.com/emcleandev/Social-express)
 
 
 # Enjoyable Moments
-- A unique exprience was implementing a mapping function for the post's reacts. that specific discussion simply reminded me of dynamic programming and that was enough to be the most enjoyble.
+- A unique exprience was implementing a reduce mapping function for the post's reacts. that specific discussion simply reminded me of dynamic programming and that was enough to be the most enjoyble.
 - fyi: I do like complexity issues no and again, given the scope of the project I wasn't expecting any at all.  
 
-Demo Screenshots so far
+# Demo Screenshots so far
