@@ -4,7 +4,7 @@ A fullstack web application primarily demonstrating use of express-react, provid
 A fullstack Facebook clone, demonstrating competency both react and express, while utilising Cloudinary to store images.
 The objective of this project was to apply knowledge of fullstack fundamentals, learn and produce a simple full stack web application, while allowing creative branches from a simple base.
 
-Stack and technologies: Reactjs, Expressjs, Cloundinary
+Stack and technologies: Reactjs, Expressjs, Cloundinary, Mongodb
 
 backend repo: 
 
