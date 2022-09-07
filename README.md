@@ -6,7 +6,7 @@ The objective of this project was to apply knowledge of fullstack fundamentals, 
 
 Stack and technologies: Reactjs, Expressjs, Cloundinary, Mongodb
 
-backend repo: (social-express)[https://github.com/emcleandev/Social-express]
+backend repo: (social-express)[https://github.com/emcleandev/Social-express](https://github.com/emcleandev/Social-express)
 
 # Features
 - User authentication with email confirmation
