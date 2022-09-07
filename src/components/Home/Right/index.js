@@ -1,0 +1,36 @@
+import React from "react";
+import { Dots, NewRoom, Search } from "../../../svg";
+import Contact from "./Contact";
+import "./styles.css";
+
+function RightHome() {
+  const color = "#65676b";
+  return (
+    <div className="right_home">
+      <div className="heading">Sponsored</div>
+      <div className="splitter1"></div>
+      <div className="contact_wrap">
+        <div className="contact_header">
+          <div className="contact_header_left">Contacts</div>
+          <div className="contact_header_right">
+            <div className="contact_circle hover1">
+              <NewRoom color={color} />
+            </div>
+            <div className="contact_circle hover1">
+              <Search color={color} />
+            </div>
+            <div className="contact_circle hover1">
+              <Dots color={color} />
+            </div>
+          </div>
+        </div>
+
+        <div className="contact_list">
+          <Contact />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default RightHome;
